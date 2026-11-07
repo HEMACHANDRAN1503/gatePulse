@@ -1,0 +1,6 @@
+{
+  "name": "GatePulse - Rate Limiting API Gateway & Telemetry Dashboard",
+  "description": "High-performance API Gateway implementing Token Bucket and Sliding Window rate limiting algorithms with real-time traffic monitoring, live analytics, and 5+ RESTful endpoints.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
